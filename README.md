@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007f54720e81ce0c513d9bf57b&ts=493227&p=fs&cid=1&sig=d9c38bc022f82e2781b952fd09abe3459e167aa8601a08ebcf7acdf72655d915&v=0" />
 </div>
 
 <div align="center">
