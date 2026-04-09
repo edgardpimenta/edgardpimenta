@@ -11,16 +11,16 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-
-
+  <a href="mailto:edgardpimentaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<h1 align="center">Olá, eu sou o Edgard Pimenta 👋</h1>
+# Olá, eu sou o Edgard Pimenta 👋
 
-<p align="center">
 💻 Desenvolvedor .NET em formação | Futuro Engenheiro de Software
-</p>
 
 ---
 
@@ -52,19 +52,14 @@ Me tornar um **Engenheiro de Software**, dominando:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
 <img width="12"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40"/>
 
 </div>
@@ -90,5 +85,5 @@ Me tornar um **Engenheiro de Software**, dominando:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=edgardpimenta&theme=dark&border_radius=5"/>
 </div>
