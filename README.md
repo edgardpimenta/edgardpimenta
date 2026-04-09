@@ -18,9 +18,11 @@
 
 ---
 
-# Olá, eu sou o Edgard Pimenta 👋
+h1 align="center">Olá, eu sou o Edgard Pimenta 👋</h1>
 
+<p align="center">
 💻 Desenvolvedor .NET em formação | Futuro Engenheiro de Software
+</p>
 
 ---
 
